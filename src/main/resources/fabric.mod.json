@@ -3,9 +3,9 @@
   "id": "@mod_id@",
   "version": "@version@",
   "name": "@mod_name@",
-  "description": "Mod description",
+  "description": "A port of the explosion physics from 22w13oneblockofatime, with some changes.",
   "authors": [
-    "Example"
+    "Sqaaakoi"
   ],
   "contact": {
   },

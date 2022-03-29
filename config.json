@@ -1,9 +1,9 @@
 {
-  "package": "example.minecraft_mods",
+  "package": "sqaaakoi.minecraft_mods",
   "mod": {
-    "id": "template",
-    "name": "Template Mod",
-    "version": "0.0"
+    "id": "oneexplosionatatime",
+    "name": "One Explosion At A Time",
+    "version": "1.0"
   },
   "dependencies": {
     "minecraft": "1.18.2",
