@@ -4,9 +4,9 @@
   "package": "@package@.mixins",
   "compatibilityLevel": "JAVA_8",
   "mixins": [
+    "ExplosionMixin"
   ],
   "client": [
-    "ExampleMixin"
   ],
   "injectors": {
     "defaultRequire": 1
